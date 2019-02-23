@@ -2,6 +2,7 @@ Please find the project inside Zip file  that contain the multiple folders
 1.	State : in this folder you will find the state.py file 
 2.	Agent :inside this folder you will get  Agent.py file 
 3.	Trading.ipynb file that contains functionality:
+
 3.1	Data pre-processing
 3.2	Agent is trained with 51 Episode. Input here are following parameters: 
 - Stock1_name: this is first stock name, which is Apple - aapl.us
