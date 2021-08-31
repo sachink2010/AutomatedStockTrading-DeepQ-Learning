@@ -47,7 +47,7 @@ class Agent:
         mini_batch = []
         l = len(self.memory)
         
-        minibatch = random.sample(self.memory, batch_size)
+        mini_batch = random.sample(self.memory, batch_size)
         
         for state, action, reward, next_state, done in mini_batch:
             target = reward
